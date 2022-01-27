@@ -314,8 +314,8 @@ h3.my-profession
     width: 80px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
-    right: -22px;
-    bottom: 146px;
+    right: -17px;
+    bottom: 145px;
 }
 .home-img::before
 {
